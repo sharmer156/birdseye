@@ -1,5 +1,5 @@
 # Bird's Eye
-
+## Birdseye: 快速、方便、以表达为中心的、使用AST的Python图形化调试器 [Github上点赞数：674个]
 [![Build Status](https://travis-ci.org/alexmojaki/birdseye.svg?branch=master)](https://travis-ci.org/alexmojaki/birdseye) [![Supports Python versions 2.7, 3.5, and 3.6](https://img.shields.io/pypi/pyversions/birdseye.svg)](https://pypi.python.org/pypi/birdseye) [![Join the chat at https://gitter.im/python_birdseye/Lobby](https://badges.gitter.im/python_birdseye/Lobby.svg)](https://gitter.im/python_birdseye/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a Python debugger which records the value of expressions in a function call and lets you easily view them after the function exits. For example:
